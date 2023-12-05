@@ -1,7 +1,7 @@
 Olá, pessoal! Sou Enylla Oliveira 👋🙂
 
 - 👩‍💻 Trabalho com Front-end.
-- 🎯 Estudando React JS, Next TypeScript, Tailwind, Styled Components, bem como outras bibliotecas   e frameworks.
+- 🎯 Estudando React JS, Next, TypeScript, Tailwind, Styled Components, bem como outras bibliotecas   e frameworks.
 ##
 
 <div>
