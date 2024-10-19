@@ -6,7 +6,7 @@ Olá, pessoal! Sou Enylla Oliveira 👋🙂
 
 <div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enyllaoliveira)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enyllaoliveira)
 
   </div>
 
