@@ -30,11 +30,7 @@
 <br />
 <br />
 
-<div>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MarcosVel&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcosVel&theme=radical"/>
-</div>
- <img width="97%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcosVel&theme=radical"/>
+
 
 [Enylla]: https://www.linkedin.com/in/enylla-oliveira/
 [linkedin]: https://www.linkedin.com/in/enylla-oliveira/
