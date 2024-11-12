@@ -1,7 +1,8 @@
-Olá, pessoal! Sou Enylla Oliveira 👋🙂
+Olá, pessoal! Sou <a href="https://www.linkedin.com/in/enylla-oliveira/" target="_blank">Enylla Oliveira</a> 👋🙂
 
-- 👩‍💻 Trabalho com Front-end.
-- 🎯 Estudando React JS, Next, Node JS, TypeScript, Tailwind, Styled Components, bem como outras bibliotecas e frameworks.
+- 👩‍💻 Sou desenvolvedora web full-stack, com foco no front-end.
+- 🎯 Trabalho com React.JS, Next.JS, Angula, Javascript, TypeScript, Node.JS e PostgreSQL
+
 ##
 
 <div>
