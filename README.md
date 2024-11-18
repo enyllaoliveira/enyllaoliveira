@@ -1,17 +1,18 @@
-## Olá, Sou [Enylla] 👋
+## Hi, I'm [Enylla] 👋
 
-### 👩‍💻 Sou desenvolvedora web full-stack, com foco no front-end.
+### 👩‍💻 I'm a full-stack engineer, focusing on front-end.
 
-- 🎓 Graduada em Análise e Desenvolvimento de sistemas.
-- 🎯 Trabalho com React.JS, Next.JS, Angula, Javascript, TypeScript, Node.JS e PostgreSQL. 
-
+- 🎓 Graduated in Systems Analysis and Development
+- 💻 Working as a Front-End Engineer
+- 🎯 Looking to learn more about back-end tools
+  
 ### Connect with me:
 
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">][linkedin]
 [<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">][gmail]
 
 
-### 🛠 Linguagens e ferramentas:
+### 🛠  Languages and Tools:
 
 <div>
   <img align="left" alt="HTML5" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
