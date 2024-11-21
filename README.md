@@ -28,16 +28,21 @@
       <img align="left" alt="Tailwind" width="30px" src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png"/>
 <img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
    <img align="left" alt="Figma" src="https://camo.githubusercontent.com/e39dd3b8f4afd6976f4978888b37cdaf52b825afb08eb36c99d92e2e63562553/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667" height="30" width="30" alt="figma logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-   <img  align="left" alt="GitHub" src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" height="30" width="30" alt="git logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img  alt="GitHub" src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" height="30" width="30" alt="git logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  
 </div>
 
 <br />
 <br />
 <br />
+<div >
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=enyllaoliveira&show_icons=true&count_private=true&hide_border=true&title_color=A646FF&icon_color=A646FF&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyllaoliveira&layout=compact&hide_border=true&title_color=A646FF&text_color=c9d1d9&bg_color=0d1117"/>
+</div>
+ <img width="97%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enyllaoliveira&theme=radical"/>
 
-<img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enyllaoliveira&theme=radical"/>
-<img width="97%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enyllaoliveira&theme=radical"/>
+
+
 
 [Enylla]: https://www.linkedin.com/in/enylla-oliveira/
 [linkedin]: https://www.linkedin.com/in/enylla-oliveira/
