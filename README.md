@@ -28,7 +28,6 @@
       <img align="left" alt="Tailwind" width="30px" src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png"/>
 <img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
    <img align="left" alt="Figma" src="https://camo.githubusercontent.com/e39dd3b8f4afd6976f4978888b37cdaf52b825afb08eb36c99d92e2e63562553/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667" height="30" width="30" alt="figma logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-   <img width="100%" alt="GitHub" src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" height="30" width="30" alt="git logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  
 </div>
 
