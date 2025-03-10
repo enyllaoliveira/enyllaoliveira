@@ -2,7 +2,7 @@
 
 ### 👩‍💻 I'm a full-stack engineer, focusing on front-end.
 
-- 🎓 Graduated in Systems Analysis and Development
+- 🎓 Graduated in Systems Analysis and Development and postgraduate in Full-stack Development and Clouding Computing
 - 💻 Working as a Front-End Engineer
 - 🎯 Looking to learn more about back-end tools
   
