@@ -1,6 +1,6 @@
 ## Hi, I'm [Enylla] 👋
 
-### 👩‍💻 I'm a full-stack engineer, focusing on front-end.
+### 👩‍💻 I'm a full-stack engineer, focusing on back-end.
 
 - 🎓 Graduated in Systems Analysis and Development and postgraduate in Full-stack Development and Clouding Computing and Cloud Computing Architecture and Projects
 - 💻 Working as a Full-stack Engineer
